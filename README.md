@@ -14,7 +14,7 @@
 - pip install openai customtkinter
 
 ## Usage
-- Set the OPENAI_API_KEY environment variable with your OpenAI API key:
+Set the OPENAI_API_KEY environment variable with your OpenAI API key:
 
 1. export OPENAI_API_KEY=your_api_key
 2. Run the idea_generator.py script:
