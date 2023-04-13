@@ -11,14 +11,14 @@
 ## Installation
 - To install the required packages, run:
 
-1. pip install openai customtkinter
+- pip install openai customtkinter
 
 ## Usage
 - Set the OPENAI_API_KEY environment variable with your OpenAI API key:
 
 1. export OPENAI_API_KEY=your_api_key
 2. Run the idea_generator.py script:
-- python idea_generator.py
+python idea_generator.py
 3. Use the graphical interface to select your desired programming language, difficulty, and additional features. Click the "Generate" button to generate a project idea.
 
 ## Dependencies
